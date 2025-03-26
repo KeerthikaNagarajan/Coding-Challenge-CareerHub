@@ -6,8 +6,7 @@ College: Saveetha Engineering College
 
 <div align="center">
 
-# Centered Heading
-
+# CareerHub
 </div>
 
 ## Task 1-4: Database initialization with error handling
